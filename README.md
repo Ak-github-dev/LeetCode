@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ak-github-dev/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## String
 |  |
@@ -40,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ak-github-dev/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Ak-github-dev/LeetCode/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ak-github-dev/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ak-github-dev/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

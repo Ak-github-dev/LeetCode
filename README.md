@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |

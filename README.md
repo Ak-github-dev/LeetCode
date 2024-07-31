@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

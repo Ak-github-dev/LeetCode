@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [1196-filling-bookcase-shelves](https://github.com/Ak-github-dev/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ak-github-dev/LeetCode/tree/master/1511-count-number-of-teams) |
 | [2727-number-of-senior-citizens](https://github.com/Ak-github-dev/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ak-github-dev/LeetCode/tree/master/0207-course-schedule) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ak-github-dev/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Design
@@ -117,9 +119,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ak-github-dev/LeetCode/tree/master/0207-course-schedule) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ak-github-dev/LeetCode/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

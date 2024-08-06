@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ak-github-dev/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Ak-github-dev/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ak-github-dev/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ak-github-dev/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ak-github-dev/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ak-github-dev/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ak-github-dev/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ak-github-dev/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ak-github-dev/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ak-github-dev/LeetCode/tree/master/0134-gas-station) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ak-github-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Ak-github-dev/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ak-github-dev/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ak-github-dev/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ak-github-dev/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ak-github-dev/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ak-github-dev/LeetCode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |

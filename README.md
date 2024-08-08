@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ak-github-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/Ak-github-dev/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ak-github-dev/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ak-github-dev/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ak-github-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
+| [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 ## Binary Search Tree
 |  |
 | ------- |

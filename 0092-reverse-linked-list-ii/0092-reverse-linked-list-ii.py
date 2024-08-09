@@ -1,3 +1,10 @@
+"""
+Steps:
+Create a dummy node that points to the head of the list.
+Traverse the list to find the node just before the left position.
+Reverse the sublist using a loop.
+Reconnect the reversed sublist to the rest of the list.
+"""
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, val=0, next=None):

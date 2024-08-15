@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ak-github-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ak-github-dev/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ak-github-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Ak-github-dev/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ak-github-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ak-github-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ak-github-dev/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ak-github-dev/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 ## Merge Sort
 |  |
 | ------- |

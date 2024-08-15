@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ak-github-dev/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Ak-github-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Ak-github-dev/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ak-github-dev/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0072-edit-distance) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ak-github-dev/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |

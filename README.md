@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ak-github-dev/LeetCode/tree/master/0190-reverse-bits) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ak-github-dev/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Ak-github-dev/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ak-github-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -378,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ak-github-dev/LeetCode/tree/master/0046-permutations) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

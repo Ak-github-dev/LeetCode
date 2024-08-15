@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Ak-github-dev/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Ak-github-dev/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Ak-github-dev/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Ak-github-dev/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ak-github-dev/LeetCode/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ak-github-dev/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0890-lemonade-change](https://github.com/Ak-github-dev/LeetCode/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |

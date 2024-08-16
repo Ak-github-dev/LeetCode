@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ak-github-dev/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ak-github-dev/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ak-github-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ak-github-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ak-github-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ak-github-dev/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ak-github-dev/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/0200-number-of-islands) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ak-github-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Ak-github-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ak-github-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0045-jump-game-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ak-github-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ak-github-dev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ak-github-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |

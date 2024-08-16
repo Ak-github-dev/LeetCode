@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Ak-github-dev/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ak-github-dev/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ak-github-dev/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ak-github-dev/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ak-github-dev/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Array

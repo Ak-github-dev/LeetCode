@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Ak-github-dev/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ak-github-dev/LeetCode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0162-find-peak-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Ak-github-dev/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/Ak-github-dev/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ak-github-dev/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ak-github-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ak-github-dev/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ak-github-dev/LeetCode/tree/master/0221-maximal-square) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -438,4 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

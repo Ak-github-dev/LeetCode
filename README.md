@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ak-github-dev/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ak-github-dev/LeetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Ak-github-dev/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0162-find-peak-element) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Ak-github-dev/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ak-github-dev/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Ak-github-dev/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Ak-github-dev/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/Ak-github-dev/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ak-github-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Ak-github-dev/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
+| [0149-max-points-on-a-line](https://github.com/Ak-github-dev/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -453,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ak-github-dev/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

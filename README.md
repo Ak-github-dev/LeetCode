@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ak-github-dev/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ak-github-dev/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ak-github-dev/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ak-github-dev/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Linked List
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Ak-github-dev/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ak-github-dev/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Depth-First Search
 |  |

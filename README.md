@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ak-github-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ak-github-dev/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ak-github-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ak-github-dev/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Math
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ak-github-dev/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
+| [0543-diameter-of-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Ak-github-dev/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ak-github-dev/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Topological Sort

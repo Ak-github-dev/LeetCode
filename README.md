@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ak-github-dev/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Ak-github-dev/LeetCode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/Ak-github-dev/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 ## Array
 |  |
 | ------- |

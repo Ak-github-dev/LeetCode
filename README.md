@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ak-github-dev/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0564-find-the-closest-palindrome](https://github.com/Ak-github-dev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ak-github-dev/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ak-github-dev/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Ak-github-dev/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ak-github-dev/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |

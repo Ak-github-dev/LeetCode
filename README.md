@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ak-github-dev/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
 | [0735-asteroid-collision](https://github.com/Ak-github-dev/LeetCode/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ak-github-dev/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ak-github-dev/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Ak-github-dev/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Ak-github-dev/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ak-github-dev/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Topological Sort

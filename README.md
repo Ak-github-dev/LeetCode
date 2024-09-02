@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ak-github-dev/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Ak-github-dev/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Ak-github-dev/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ak-github-dev/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Ak-github-dev/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ak-github-dev/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ak-github-dev/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Ak-github-dev/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ak-github-dev/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ak-github-dev/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ak-github-dev/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Tree
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Ak-github-dev/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/Ak-github-dev/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ak-github-dev/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ak-github-dev/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Ak-github-dev/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search Tree
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ak-github-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ak-github-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Ak-github-dev/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ak-github-dev/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Doubly-Linked List
 |  |
 | ------- |

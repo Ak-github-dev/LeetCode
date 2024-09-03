@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/Ak-github-dev/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Ak-github-dev/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ak-github-dev/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1511-count-number-of-teams](https://github.com/Ak-github-dev/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ak-github-dev/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Ak-github-dev/LeetCode/tree/master/0664-strange-printer) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/Ak-github-dev/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Ak-github-dev/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ak-github-dev/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ak-github-dev/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Ak-github-dev/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ak-github-dev/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ak-github-dev/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ak-github-dev/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ak-github-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1240-stone-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/Ak-github-dev/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ak-github-dev/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Doubly-Linked List
@@ -585,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ak-github-dev/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

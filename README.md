@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ak-github-dev/LeetCode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Ak-github-dev/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Ak-github-dev/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ak-github-dev/LeetCode/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ak-github-dev/LeetCode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/Ak-github-dev/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ak-github-dev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ak-github-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Ak-github-dev/LeetCode/tree/master/0279-perfect-squares) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ak-github-dev/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Ak-github-dev/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ak-github-dev/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ak-github-dev/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/Ak-github-dev/LeetCode/tree/master/0394-decode-string) |
 ## Depth-First Search
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ak-github-dev/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ak-github-dev/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Geometry
 |  |
 | ------- |

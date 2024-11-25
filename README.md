@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Ak-github-dev/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Ak-github-dev/LeetCode/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/Ak-github-dev/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Ak-github-dev/LeetCode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ak-github-dev/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ak-github-dev/LeetCode/tree/master/0890-lemonade-change) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ak-github-dev/LeetCode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/Ak-github-dev/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Ak-github-dev/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0787-sliding-puzzle](https://github.com/Ak-github-dev/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/Ak-github-dev/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Ak-github-dev/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ak-github-dev/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Ak-github-dev/LeetCode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Ak-github-dev/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/Ak-github-dev/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Ak-github-dev/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ak-github-dev/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/Ak-github-dev/LeetCode/tree/master/0945-snakes-and-ladders) |
